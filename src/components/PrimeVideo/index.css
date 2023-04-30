@@ -1,0 +1,23 @@
+.bg-container {
+  font-weight: bold;
+  font-family: 'Roboto';
+  min-height: 100vh;
+  background-size: cover;
+  background-color: #000000;
+}
+.primeVideoImage {
+  height: 200px;
+  width: 100%;
+}
+.contentContainer {
+  padding: 20px;
+  min-height: 100vh;
+  font-weight: bold;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+}
+h1 {
+  font-weight: 900;
+  font-family: 'Roboto';
+  color: #ffffff;
+}

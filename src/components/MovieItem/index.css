@@ -1,0 +1,26 @@
+.MovieItemContainer {
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.popup-content {
+  background-color: #ffffff;
+  height: 200px;
+  width: 300px;
+}
+.MovieItemVideoContainer {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.closeButton {
+  align-self: flex-end;
+}
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  font-family: 'Roboto';
+  cursor: pointer;
+}
